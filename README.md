@@ -11,7 +11,7 @@
 <div class="container mt-5">
     <h1>Web Uygulaması</h1>
 
-    <div class="mt-3">
+<div class="mt-3">
         <h2>Kullanılan Paketler</h2>
         <ul>
             <li>"cors": "^2.8.5"</li>
@@ -26,7 +26,7 @@
         </ul>
     </div>
 
-    <div class="mt-3">
+<div class="mt-3">
         <h2>Fotoğraflar</h2>
         <div class="d-flex">
             <img src="https://github.com/bsenator/signUpform/assets/69959722/ef8f433b-7a15-41f0-b4d3-445b2ecb8af8" alt="Resim 1" class="me-3">
