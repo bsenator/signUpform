@@ -1,28 +1,41 @@
-use to
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "mongoose": "^8.0.3",
-    "nodemon": "^3.0.2"
-    "bootstrap": "^5.0.0-alpha1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Uygulaması</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css">
+</head>
+<body>
 
-for exec:
+<div class="container mt-5">
+    <h1>Web Uygulaması</h1>
 
-client -- npm start
-server -- npx nodemon index.js
+    <div class="mt-3">
+        <h2>Kullanılan Paketler</h2>
+        <ul>
+            <li>"cors": "^2.8.5"</li>
+            <li>"express": "^4.18.2"</li>
+            <li>"mongoose": "^8.0.3"</li>
+            <li>"nodemon": "^3.0.2"</li>
+            <li>"bootstrap": "^5.0.0-alpha1"</li>
+            <li>"react": "^18.2.0"</li>
+            <li>"react-dom": "^18.2.0"</li>
+            <li>"react-scripts": "5.0.1"</li>
+            <li>"web-vitals": "^2.1.4"</li>
+        </ul>
+    </div>
 
-photos ui & db:
+    <div class="mt-3">
+        <h2>Fotoğraflar</h2>
+        <div class="d-flex">
+            <img src="https://github.com/bsenator/signUpform/assets/69959722/ef8f433b-7a15-41f0-b4d3-445b2ecb8af8" alt="Resim 1" class="me-3">
+            <img src="https://github.com/bsenator/signUpform/assets/69959722/343573cf-de2d-41bf-b9b3-7974b569f3da" alt="Resim 2">
+        </div>
+    </div>
+</div>
 
-![image](https://github.com/bsenator/signUpform/assets/69959722/ef8f433b-7a15-41f0-b4d3-445b2ecb8af8)
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
 
-![image](https://github.com/bsenator/signUpform/assets/69959722/343573cf-de2d-41bf-b9b3-7974b569f3da)
-
-
-Eksikler:
--kullanıcı dbye gonderildikten sonra sayfa cls yapılmalı
--kullancıı dbye gonderildi diye ekrana bilgi mesajı gelmeli
--local mongodbde sorunsuz bir şekilde çalışıyor tum datalar dbye yazdırılıyor.
--tekrar eden data kontrolu yapilmali
