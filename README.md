@@ -14,9 +14,12 @@ for exec:
 client -- npm start
 server -- npx nodemon index.js
 
-photos:
+photos ui & db:
 
 ![image](https://github.com/bsenator/signUpform/assets/69959722/ef8f433b-7a15-41f0-b4d3-445b2ecb8af8)
+
+![image](https://github.com/bsenator/signUpform/assets/69959722/343573cf-de2d-41bf-b9b3-7974b569f3da)
+
 
 Eksikler:
 -kullanıcı dbye gonderildikten sonra sayfa cls yapılmalı
