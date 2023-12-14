@@ -38,10 +38,10 @@
     <h2>Fotoğraflar</h2>
     <div class="row">
         <div class="col-md-6">
-            <img src="https://example.com/image1.jpg" alt="Resim 1" class="img-fluid mb-3">
+            <img src="https://github.com/bsenator/signUpform/assets/69959722/ef8f433b-7a15-41f0-b4d3-445b2ecb8af8" alt="App" class="me-3">
         </div>
         <div class="col-md-6">
-            <img src="https://example.com/image2.jpg" alt="Resim 2" class="img-fluid mb-3">
+            <img src="https://github.com/bsenator/signUpform/assets/69959722/343573cf-de2d-41bf-b9b3-7974b569f3da" alt="DB">
         </div>
     </div>
 </div>
