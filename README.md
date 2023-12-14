@@ -9,6 +9,14 @@ use to
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
 
+for exec:
+
+client -- npm start
+server -- npx nodemon index.js
+
+photos:
+
+![image](https://github.com/bsenator/signUpform/assets/69959722/ef8f433b-7a15-41f0-b4d3-445b2ecb8af8)
 
 Eksikler:
 -kullanıcı dbye gonderildikten sonra sayfa cls yapılmalı
