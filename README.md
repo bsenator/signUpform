@@ -35,10 +35,13 @@
     
 
 <div class="mt-3">
-        <h2>Fotoğraflar</h2>
-        <div class="d-flex">
-            <img src="https://github.com/bsenator/signUpform/assets/69959722/ef8f433b-7a15-41f0-b4d3-445b2ecb8af8" alt="Resim 1" class="me-3">
-            <img src="https://github.com/bsenator/signUpform/assets/69959722/343573cf-de2d-41bf-b9b3-7974b569f3da" alt="Resim 2">
+    <h2>Fotoğraflar</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <img src="https://example.com/image1.jpg" alt="Resim 1" class="img-fluid mb-3">
+        </div>
+        <div class="col-md-6">
+            <img src="https://example.com/image2.jpg" alt="Resim 2" class="img-fluid mb-3">
         </div>
     </div>
 </div>
@@ -48,24 +51,11 @@
         <h2>EKSİKLER</h2>
         <ul>
             <li>-kullanıcı dbye gonderildikten sonra sayfa cls yapılmalı</li>
-            <li>-kullanıcı dbye gonderildikten sonra sayfa cls yapılmalı</li>
-            <li>-kullanıcı dbye gonderildikten sonra sayfa cls yapılmalı</li>
-            <li>-kullanıcı dbye gonderildikten sonra sayfa cls yapılmalı</li>
-            
-                kullancıı dbye gonderildi diye ekrana bilgi mesajı gelmeli
-            -local mongodbde sorunsuz bir şekilde çalışıyor tum datalar dbye yazdırılıyor.
-            -tekrar eden data kontrolu yapilmali
-            <li>"express": "^4.18.2"</li>
-            <li>"mongoose": "^8.0.3"</li>
-            <li>"nodemon": "^3.0.2"</li>
-            <li>"bootstrap": "^5.0.0-alpha1"</li>
-            <li>"react": "^18.2.0"</li>
-            <li>"react-dom": "^18.2.0"</li>
-            <li>"react-scripts": "5.0.1"</li>
-            <li>"web-vitals": "^2.1.4"</li>
+            <li>-kullancıı dbye gonderildi diye ekrana bilgi mesajı gelmeli</li>
+            <li>-local mongodbde sorunsuz bir şekilde çalışıyor tum datalar dbye yazdırılıyor.</li>
+            <li>-tekrar eden data kontrolu yapilmali</li>
         </ul>
-    </div>
-
+</div>
 
 </body>
 </html>
