@@ -59,7 +59,8 @@
 
 <div class="mt-3">
     <h2>How to exec????</h2>
-    <img src="https:/github.com/bsenator/signUpform/assets/69959722/3aa8c5cf-480c-45b5-aebd-db63abf6cbaf" alt="DB">
+    ![signUpformss1](https://github.com/bsenator/signUpform/assets/69959722/98811b4a-9abb-442a-b362-f98e76b3de4f)
+
 </div>
 
 
